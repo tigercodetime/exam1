@@ -1,0 +1,15 @@
+th{
+    color: white;
+    background-color: #CE725D;
+}
+button{
+    background-color: #CE725D;
+    color: white;
+    border:none;
+    border-radius: 5px;
+}
+
+
+a{
+    text-decoration: none;
+}
